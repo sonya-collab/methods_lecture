@@ -1,3 +1,5 @@
+import pandas as pd
+import matplotlib.pyplot as plt
 def plot_analysis(raw_data: pd.DataFrame,
                   fit_results: pd.DataFrame) -> None:
     """Plot the results of the analysis.
