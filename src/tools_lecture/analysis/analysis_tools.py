@@ -1,3 +1,5 @@
+import pandas as pd
+import numpy as np
 def analyse_data(raw_data: pd.DataFrame) -> pd.DataFrame:
     """Produce and analyse raw data.
 

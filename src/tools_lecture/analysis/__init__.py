@@ -1,2 +1,2 @@
- from .analysis_tools.py import analyse_data
- from your_repo_name.data import generate_data
+from .analysis_tools import analyse_data
+from tools_lecture.src.tools_lecture.data import generate_data

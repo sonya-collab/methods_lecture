@@ -1,3 +1,5 @@
+import pandas as pd
+import numpy as np
 def generate_data(n: int = 1000) -> pd.DataFrame:
     """Generate data points.
 
